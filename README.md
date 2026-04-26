@@ -1,6 +1,6 @@
 # pi 的设计艺术：构建生产级 Coding Agent 的架构决策
 
-> 在线阅读：**[zhanghandong.github.io/pi-book](https://zhanghandong.github.io/pi-book/)**
+> 在线阅读：**[younocode.github.io/pi-book](https://younocode.github.io/pi-book/)**
 
 本书解剖 [pi-mono](https://github.com/nicedoc/pi-mono) 项目的关键设计决策。不是源码导读，而是回答"为什么这样设计"——每个决策放弃了什么、得到了什么。
 
