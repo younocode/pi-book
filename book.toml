@@ -17,7 +17,6 @@ additional-js = ["mermaid.min.js", "mermaid-init.js"]
 [output.html.search]
 enable = true
 limit-results = 30
-use-hierarchical-strategy = true
 
 [output.html.fold]
 enable = true
